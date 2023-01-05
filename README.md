@@ -1,3 +1,3 @@
 ### Terve siellä! 👋
 
-- 👨‍💻 Työskentelemme tällä hetkellä Fooder-sovelluksen parissa Androidille.
+- 👨‍💻 Työskentelen tällä hetkellä Rickrolls-palvelun parissa Androidille ja nettiin.
